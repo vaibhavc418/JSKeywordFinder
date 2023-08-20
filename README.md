@@ -18,7 +18,7 @@ chmod +x JSKeywordFinder.sh
 
 ./JSKeywordFinder.sh testphp.vulnweb.com
 
-![2](https://github.com/vaibhavc444/JSKeywordFinder/assets/49524926/d8402ae4-1c17-4c99-8e88-3b6795a144bd)
+![2](https://github.com/vaibhavc418/JSKeywordFinder/assets/49524926/d1f48bd5-547b-4d98-849a-259207d6117d)
 
 # Thank You
 
