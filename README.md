@@ -1,2 +1,2 @@
 # JSKeywordFinder
-just a Tool
+JSKeywordHunter is a powerful open-source tool designed to assist security professionals in identifying potential security vulnerabilities and sensitive information leaks within JavaScript code hosted on websites. This tool automates the process of searching for keywords and patterns that might indicate the presence of sensitive information, such as passwords, API keys, tokens, and other confidential data.
