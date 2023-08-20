@@ -7,3 +7,9 @@ JSKeywordHunter is a powerful open-source tool designed to assist security profe
 3. Katana - go install github.com/projectdiscovery/katana/cmd/katana@latest
 4. GAU - go install github.com/lc/gau/v2/cmd/gau@latest
 5. URO - pip3 install uro
+
+# Basic Usage
+
+chmod +x JSKeywordFinder.sh
+
+./JSKeywordFinder.sh website.com
