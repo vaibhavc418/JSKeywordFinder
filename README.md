@@ -5,4 +5,5 @@ JSKeywordHunter is a powerful open-source tool designed to assist security profe
 1. Linux/OSX machine
 2. waybackurls - go install github.com/tomnomnom/waybackurls@latest
 3. Katana - go install github.com/projectdiscovery/katana/cmd/katana@latest
-4. gau - go install github.com/lc/gau/v2/cmd/gau@latest
+4. GAU - go install github.com/lc/gau/v2/cmd/gau@latest
+5. URO - pip3 install uro
